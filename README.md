@@ -1,126 +1,351 @@
-# 💫 About Me:
-AI/ML Developer | Full Stack Developer | RAG & Agentic AI Builder | Computer Vision Enthusiast<br><br>🔭 I’m currently working on<br>AI/ML and full-stack projects like GetFlowDone AI Agent Builder, RAG-based recommendation systems, and Anomaly Detection Vision Transformer.<br><br>👯 I’m looking to collaborate on<br>RAG pipelines, agentic AI tools, computer vision apps, federated learning systems, and full-stack SaaS products.<br><br>🤝 I’m looking for help with<br>Scaling production ML systems, improving model robustness, and optimizing deployment workflows.<br><br>🌱 I’m currently learning<br>Advanced RAG, agentic AI workflows, adversarial ML, federated learning, and production-level AI system design.<br><br>💬 Ask me about<br>Python, Next.js, FastAPI, Django, PyTorch, TensorFlow.js, RAG, Computer Vision, REST APIs, Node.js, and Full Stack Development.<br><br>⚡ Fun fact<br>I like turning complex AI ideas into real usable apps — from video anomaly detection to AI agent workflow builders.
-
-
-<!-- Snake Game Repo View -->
+<!--
+  MAXIMUM GAMER / FLASHY / GITHUB-SAFE README
+  Profile repository: KartikeyaM2007/KartikeyaM2007
+  Note: GitHub strips custom CSS/JS, so the animations here use safe SVG/GIF embeds.
+-->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:3333ff,100:00ffcc&height=190&section=header&text=KARTIKEYA%20MISHRA&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%2FML%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20RAG%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=16" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=24&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=90&lines=%F0%9F%8E%AE+Welcome+to+my+Dev+Dungeon;%F0%9F%A7%A0+AI+systems+%7C+RAG+%7C+Agents+%7C+Vision;%E2%9A%94%EF%B8%8F+Shipping+projects+while+bugs+beg+for+mercy;%F0%9F%94%A5+Production+breaks.+I+lock+in.)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0055,50:7b2ff7,100:00f5ff&height=5&section=header" width="100%" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=KartikeyaM2007&style=for-the-badge&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/KartikeyaM2007?style=for-the-badge&logo=github&label=FOLLOWERS&color=00d9ff)
+![Stars](https://img.shields.io/github/stars/KartikeyaM2007?style=for-the-badge&logo=github&label=STARS&color=ffcc00)
+![Build](https://img.shields.io/badge/BUILD-PASSING-00ff88?style=for-the-badge)
+![Boss](https://img.shields.io/badge/FINAL%20BOSS-PRODUCTION-red?style=for-the-badge)
+![Mode](https://img.shields.io/badge/MODE-CHAOS%20ENGINEERED-ff69b4?style=for-the-badge)
+
 </div>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikeya-mishra-a92227191) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikeyamishra2134@gmail.com) 
 ---
 
-## 💻 Tech Stack
+<div align="center">
 
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,solidity" />
-</p>
+## 🎮 PLAYER CARD
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
 
+### ⚔️ Identity Loadout
 
-### Libraries / Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,vite,qt" />
-</p>
+| Attribute | Value |
+|---|---|
+| 🧑‍💻 **Player** | Kartikeya Mishra |
+| 🏷️ **Class** | AI/ML Developer + Full Stack Builder |
+| 🧙 **Subclass** | RAG Wizard / Agentic AI Summoner |
+| ⚔️ **Weapon** | Python, FastAPI, Next.js, PyTorch |
+| 🛡️ **Armor** | Docker, GitHub Actions, Logs, Stack Traces |
+| 🧟 **Enemies** | Hallucinations, 500 Errors, Broken Deployments |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jinja-FFFFFF?style=for-the-badge&logo=jinja&logoColor=black" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-</p>
+</td>
+<td align="center" width="50%">
 
+### 🔥 Live Status
 
-### AI / ML / Computer Vision
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
+```text
+KARTIKEYA.EXE loaded successfully
+HP: ██████████ 100%
+AI: █████████░  90%
+RAG: █████████░ 90%
+CV: ████████░░  80%
+Sleep: ██░░░░░░░░ 20%
+Grass: █░░░░░░░░░ 10%
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=green" />
-</p>
+</td>
+</tr>
+</table>
 
+</div>
 
-### Databases / Storage
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,firebase,supabase,postgresql" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,50:7b2ff7,100:ff0055&height=70&section=header&text=QUEST%20ACCEPTED&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
-</p>
+## 🧙‍♂️ About The Player
 
+<img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 
-### Cloud / Deployment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,vercel,heroku" />
-</p>
+Hey, I’m **Kartikeya** — an **AI/ML Developer** and **Full Stack Builder** crafting systems around **Agentic AI**, **RAG pipelines**, **Computer Vision**, **Machine Learning**, **Full Stack SaaS**, and **Cloud Deployment**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-</p>
+I build projects that start as *“this idea is insane”* and somehow become *“wait, this actually works.”*
 
+The model hallucinates. The backend panics. The frontend moves by 2 pixels for no reason. The database silently judges everyone.
 
-### Developer Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,bun" />
-</p>
+And yet... **we ship.** 🚀
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
+<br clear="right" />
 
+<div align="center">
 
-### Testing / Automation
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,jest" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartikeya%20Mishra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikeya-mishra-a92227191)
+[![Gmail](https://img.shields.io/badge/Gmail-kartikeyamishra2134%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikeyamishra2134@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-KartikeyaM2007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KartikeyaM2007)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-</p>
-
-
-### Design / Creative Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,blender,wordpress" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=blue" />
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KartikeyaM2007&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KartikeyaM2007&theme=graywhite&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KartikeyaM2007&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
+## 🧰 Inventory / Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1400&pause=400&color=FF00CC&center=true&vCenter=true&width=850&lines=Loading+weapons...;Equipping+frameworks...;Summoning+AI+models...;Deploying+without+panic...+probably.)](https://git.io/typing-svg)
+
+### 🗡️ Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,solidity" />
+<br/><br/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+
+### 🧩 Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,vite,qt" />
+<br/><br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Jinja-ffffff?style=for-the-badge&logo=jinja&logoColor=black" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+
+### 🤖 AI / ML / Computer Vision
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<br/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=green" />
+
+### 🏰 Databases / Cloud / Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,firebase,supabase,postgresql,aws,azure,vercel,heroku,docker,git,github,postman,bun" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff0055&height=5&section=header" width="100%" />
+
+## 🕹️ Class Selection Screen
+
+| Class | Role | Passive Ability | Ultimate |
+|---|---|---|---|
+| 🧙 **RAG Wizard** | Document intelligence | Extracts truth from PDFs | `Citation Storm` |
+| 🤖 **Agentic AI Summoner** | Tool-using AI workflows | Automates repetitive pain | `Multi-Agent Swarm` |
+| 👁️ **Computer Vision Hunter** | Pixel analysis | Detects anomalies in the wild | `Frame-by-Frame Judgment` |
+| 🛡️ **Full Stack Tank** | Product engineering | Carries frontend + backend | `Deploy Without Fear` |
+| 🧪 **ML Alchemist** | Model experiments | Turns tensors into predictions | `Gradient Descent Ritual` |
 
 ---
-[![](https://komarev.com/ghpvc/?username=KartikeyaM2007&icon=9&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Skill Tree
+
+```mermaid
+mindmap
+  root((Kartikeya))
+    AI/ML
+      PyTorch
+      TensorFlow
+      Scikit-learn
+      MLflow
+      Model Evaluation
+    RAG
+      Chunking
+      Embeddings
+      Retrieval
+      Reranking
+      Citation Grounding
+    Agentic AI
+      Tool Calling
+      Workflow Automation
+      Multi-Agent Systems
+      Planning
+    Computer Vision
+      OpenCV
+      Video Models
+      Anomaly Detection
+      Frame Processing
+    Full Stack
+      Next.js
+      React
+      Node.js
+      FastAPI
+      Django
+      REST APIs
+    Infra
+      Docker
+      GitHub Actions
+      Vercel
+      AWS
+      Azure
+      Render
+```
+
+---
+
+<div align="center">
+
+## 📊 GitHub Battle Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KartikeyaM2007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyaM2007&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="900" src="https://streak-stats.demolab.com?user=KartikeyaM2007&theme=tokyonight&hide_border=true&card_width=900" />
+
+<br/><br/>
+
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=KartikeyaM2007&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Battlefield" />
+
+<br/>
+
+<img width="900" src="https://github-profile-trophy.vercel.app/?username=KartikeyaM2007&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+
+</div>
+
+---
+
+## 📊 Brain Power Distribution
+
+```mermaid
+pie title Current Power Allocation
+    "AI / ML / RAG" : 35
+    "Full Stack" : 25
+    "Computer Vision" : 15
+    "Backend / APIs" : 10
+    "Cloud / DevOps" : 10
+    "Debugging at 2 AM" : 5
+```
+
+---
+
+## 🧾 Quest Log
+
+| Quest | Status |
+|---|---|
+| Build full-stack AI apps | ✅ Completed |
+| Create RAG pipelines | ✅ Completed |
+| Explore agentic AI workflows | 🟩 Active |
+| Build computer vision systems | 🟩 Active |
+| Learn federated learning | 🟨 In Progress |
+| Improve production ML deployment | 🟨 In Progress |
+| Defeat flaky dependencies | ♾️ Eternal Quest |
+| Touch grass | ❌ Optional DLC |
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:111111,50:7b2ff7,100:00f5ff&height=90&section=header&text=DEBUG%20DUNGEON&fontSize=28&fontColor=ffffff&animation=blinking" width="100%" />
+
+## 🎮 Interactive Mini Game: Debug Dungeon
+
+<details>
+<summary>🟢 <b>Level 1: API returns 500. Choose your move.</b></summary>
+
+```text
+A) Refresh repeatedly and hope
+B) Blame the frontend
+C) Check logs like a responsible engineer
+```
+
+✅ Correct: **C**  
+Reward: `+10 sanity`, `+1 backend mastery`, `500 error took emotional damage`
+</details>
+
+<details>
+<summary>🟡 <b>Level 2: RAG output is hallucinating. Choose your spell.</b></summary>
+
+```text
+A) Increase temperature because chaos is art
+B) Improve chunking, retrieval, reranking, and context grounding
+C) Tell users "it's a feature"
+```
+
+✅ Correct: **B**  
+Reward: `+20 truthfulness`, `+15 retrieval accuracy`, `hallucination debuffed`
+</details>
+
+<details>
+<summary>🔴 <b>Level 3: Production broke at 2 AM. Final boss music starts.</b></summary>
+
+```text
+Boss: NullPointerDragon
+HP: 9999
+Weakness: stack traces
+```
+
+Move sequence: `logs → reproduce → root cause → patch → test → deploy → pretend calm`
+
+🏆 Victory unlocked: **Production Survivor**
+</details>
+
+<details>
+<summary>🟣 <b>Secret Level: The model works locally but fails in deployment.</b></summary>
+
+```text
+Possible causes:
+- Missing environment variable
+- Wrong model path
+- Memory limit
+- Dependency mismatch
+- The cloud simply woke up and chose violence
+```
+
+Reward: `+30 DevOps XP`, `+1 thousand-yard stare`
+</details>
+
+---
+
+## 🏆 Achievement Unlocked
+
+| Achievement | Description |
+|---|---|
+| 🧙 RAG Wizard | Built retrieval-based AI systems |
+| ⚔️ API Knight | Survived REST API battles |
+| 🐉 Bug Slayer | Defeated errors that had no business existing |
+| 🧠 Tensor Tamer | Worked with ML models without crying publicly |
+| 🏗️ Full Stack Builder | Built apps from database to deployment |
+| 🚀 Ship Happens | Deployed projects despite the universe resisting |
+| 🕵️ Log Detective | Found bugs through pure terminal archaeology |
+| 🔥 Overengineering Enjoyer | Made the architecture 3x cooler than required |
+
+---
+
+## 🎯 Current Campaign
+
+```mermaid
+timeline
+    title Current Learning Campaign
+    section Chapter 1
+      Advanced RAG : chunking, reranking, citations
+      Agentic AI : tool use, memory, workflows
+    section Chapter 2
+      Federated Learning : distributed intelligence
+      Adversarial ML : model robustness
+    section Chapter 3
+      Production AI : monitoring, scaling, deployment
+      MLOps : pipelines, tracking, evaluation
+```
+
+---
+
+<div align="center">
+
+## 🧿 Developer Mood Board
+
+![Coffee](https://img.shields.io/badge/Coffee-required-brown?style=for-the-badge&logo=buymeacoffee&logoColor=white)
+![Bugs](https://img.shields.io/badge/Bugs-temporary-red?style=for-the-badge)
+![Logs](https://img.shields.io/badge/Logs-don't%20lie-orange?style=for-the-badge)
+![Ship](https://img.shields.io/badge/Shipping-inevitable-blue?style=for-the-badge&logo=rocket&logoColor=white)
+![Overengineering](https://img.shields.io/badge/Overengineering-a%20lifestyle-8a2be2?style=for-the-badge)
+![Sleep](https://img.shields.io/badge/Sleep-optional%20feature-111111?style=for-the-badge)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:7b2ff7,100:ff0055&height=140&section=footer&text=I%20loot%20logs%2C%20fight%20bugs%2C%20and%20ship%20the%20product.&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
+
+![Made With Markdown](https://img.shields.io/badge/Made%20with-Markdown-000000?style=for-the-badge&logo=markdown)
+![Powered By Chaos](https://img.shields.io/badge/Powered%20by-Chaos%20Engineering-ff0055?style=for-the-badge)
+![Respawn](https://img.shields.io/badge/Respawn%20Point-GitHub-181717?style=for-the-badge&logo=github)
+
+</div>
