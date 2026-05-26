@@ -1,4 +1,13 @@
+<!--
+  FLASHY / ANIMATED / GITHUB-SAFE README
+  Profile repository: KartikeyaM2007/KartikeyaM2007
 
+  GitHub README reality check:
+  - Custom CSS animations and JavaScript are blocked by GitHub.
+  - The animations below use external animated SVG/GIF cards, which GitHub allows.
+  - Snake section uses a safe static SVG so it does not break. For a personal contribution snake,
+    add the workflow included separately as github_workflows_snake.yml.
+-->
 
 <div align="center">
 
