@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,45:3333ff,100:00ffcc&height=210&section=header&text=KARTIKEYA%20MISHRA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%2FML%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20RAG%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=16" alt="Animated header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=23&duration=1800&pause=650&color=00F7FF&center=true&vCenter=true&width=950&height=52&lines=SYSTEM+BOOT%3A+KARTIKEYA.EXE;AI%2FML+%E2%80%A2+RAG+%E2%80%A2+AGENTS+%E2%80%A2+COMPUTER+VISION;FULL+STACK+BUILDS+%E2%80%A2+FASTAPI+%E2%80%A2+NEXT.JS+%E2%80%A2+PYTORCH;BUGS+SPAWN.+LOGS+SPEAK.+PRODUCT+SHIPS.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=23&duration=1800&pause=650&color=00F7FF&center=true&vCenter=true&width=950&height=52&lines=SYSTEM+BOOT%3A+KARTIKEYA.EXE;AI%2FML+%E2%80%A2+GENERATIVE+AI+%E2%80%A2+RAG+%E2%80%A2+AGENTIC+AI+%E2%80%A2+COMPUTER+VISION;FULL+STACK+BUILDS+%E2%80%A2+FASTAPI+%E2%80%A2+NEXT.JS+%E2%80%A2+PYTORCH;BUGS+SPAWN.+LOGS+SPEAK.+PRODUCT+SHIPS.)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0055,50:7b2ff7,100:00f5ff&height=5&section=header" width="100%" alt="Neon divider" />
 
