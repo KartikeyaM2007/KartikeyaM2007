@@ -1,23 +1,19 @@
-<!--
-  MAXIMUM GAMER / FLASHY / GITHUB-SAFE README
-  Profile repository: KartikeyaM2007/KartikeyaM2007
-  Note: GitHub strips custom CSS/JS, so the animations here use safe SVG/GIF embeds.
--->
+
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:3333ff,100:00ffcc&height=190&section=header&text=KARTIKEYA%20MISHRA&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%2FML%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20RAG%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,45:3333ff,100:00ffcc&height=210&section=header&text=KARTIKEYA%20MISHRA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%2FML%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20RAG%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=16" alt="Animated header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=24&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=90&lines=%F0%9F%8E%AE+Welcome+to+my+Dev+Dungeon;%F0%9F%A7%A0+AI+systems+%7C+RAG+%7C+Agents+%7C+Vision;%E2%9A%94%EF%B8%8F+Shipping+projects+while+bugs+beg+for+mercy;%F0%9F%94%A5+Production+breaks.+I+lock+in.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=23&duration=1800&pause=650&color=00F7FF&center=true&vCenter=true&width=950&height=52&lines=SYSTEM+BOOT%3A+KARTIKEYA.EXE;AI%2FML+%E2%80%A2+RAG+%E2%80%A2+AGENTS+%E2%80%A2+COMPUTER+VISION;FULL+STACK+BUILDS+%E2%80%A2+FASTAPI+%E2%80%A2+NEXT.JS+%E2%80%A2+PYTORCH;BUGS+SPAWN.+LOGS+SPEAK.+PRODUCT+SHIPS.)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0055,50:7b2ff7,100:00f5ff&height=5&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0055,50:7b2ff7,100:00f5ff&height=5&section=header" width="100%" alt="Neon divider" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KartikeyaM2007&style=for-the-badge&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/KartikeyaM2007?style=for-the-badge&logo=github&label=FOLLOWERS&color=00d9ff)
 ![Stars](https://img.shields.io/github/stars/KartikeyaM2007?style=for-the-badge&logo=github&label=STARS&color=ffcc00)
 ![Build](https://img.shields.io/badge/BUILD-PASSING-00ff88?style=for-the-badge)
-![Boss](https://img.shields.io/badge/FINAL%20BOSS-PRODUCTION-red?style=for-the-badge)
 ![Mode](https://img.shields.io/badge/MODE-CHAOS%20ENGINEERED-ff69b4?style=for-the-badge)
+![Boss](https://img.shields.io/badge/BOSS-PRODUCTION-red?style=for-the-badge)
 
 </div>
 
@@ -25,11 +21,19 @@
 
 <div align="center">
 
-## 🎮 PLAYER CARD
+## 🐍 Snake Game Repo View
+
+<img width="900" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,50:7b2ff7,100:ff0055&height=90&section=header&text=PLAYER%20PROFILE&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" alt="Animated section divider" />
+
+## 🎮 Player Card
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%">
 
 ### ⚔️ Identity Loadout
 
@@ -38,42 +42,41 @@
 | 🧑‍💻 **Player** | Kartikeya Mishra |
 | 🏷️ **Class** | AI/ML Developer + Full Stack Builder |
 | 🧙 **Subclass** | RAG Wizard / Agentic AI Summoner |
-| ⚔️ **Weapon** | Python, FastAPI, Next.js, PyTorch |
+| ⚔️ **Weapons** | Python, FastAPI, Next.js, PyTorch |
 | 🛡️ **Armor** | Docker, GitHub Actions, Logs, Stack Traces |
 | 🧟 **Enemies** | Hallucinations, 500 Errors, Broken Deployments |
 
 </td>
-<td align="center" width="50%">
+<td width="50%">
 
 ### 🔥 Live Status
 
 ```text
-KARTIKEYA.EXE loaded successfully
-HP: ██████████ 100%
-AI: █████████░  90%
-RAG: █████████░ 90%
-CV: ████████░░  80%
-Sleep: ██░░░░░░░░ 20%
-Grass: █░░░░░░░░░ 10%
+KARTIKEYA.EXE initialized
+HP:       ██████████ 100%
+AI / ML:  █████████░  90%
+RAG:      █████████░  90%
+Vision:   ████████░░  80%
+Backend:  █████████░  90%
+Sleep:    ██░░░░░░░░  20%
+Grass:    █░░░░░░░░░  10%
 ```
 
 </td>
 </tr>
 </table>
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,50:7b2ff7,100:ff0055&height=70&section=header&text=QUEST%20ACCEPTED&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
+## 🧙‍♂️ About Me
 
-## 🧙‍♂️ About The Player
+<img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation" />
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
-
-Hey, I’m **Kartikeya** — an **AI/ML Developer** and **Full Stack Builder** crafting systems around **Agentic AI**, **RAG pipelines**, **Computer Vision**, **Machine Learning**, **Full Stack SaaS**, and **Cloud Deployment**.
+Hey, I’m **Kartikeya** — an **AI/ML Developer** and **Full Stack Builder** focused on **Agentic AI**, **RAG pipelines**, **Computer Vision**, **Machine Learning**, **Full Stack SaaS**, and **Cloud Deployment**.
 
 I build projects that start as *“this idea is insane”* and somehow become *“wait, this actually works.”*
 
-The model hallucinates. The backend panics. The frontend moves by 2 pixels for no reason. The database silently judges everyone.
+The model hallucinates. The backend panics. The frontend shifts by 2 pixels for no reason. The database silently judges everyone.
 
 And yet... **we ship.** 🚀
 
@@ -87,48 +90,71 @@ And yet... **we ship.** 🚀
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff0055&height=5&section=header" width="100%" alt="Neon divider" />
 
 <div align="center">
 
 ## 🧰 Inventory / Tech Stack
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1400&pause=400&color=FF00CC&center=true&vCenter=true&width=850&lines=Loading+weapons...;Equipping+frameworks...;Summoning+AI+models...;Deploying+without+panic...+probably.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1450&pause=420&color=FF00CC&center=true&vCenter=true&width=850&height=46&lines=Loading+weapons...;Equipping+frameworks...;Summoning+AI+models...;Deploying+without+panic...+mostly.)](https://git.io/typing-svg)
 
 ### 🗡️ Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,solidity" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css" alt="Languages" />
 <br/><br/>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 
 ### 🧩 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,vite,qt" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,vite" alt="Frameworks" />
 <br/><br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Jinja-ffffff?style=for-the-badge&logo=jinja&logoColor=black" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Jinja-ffffff?style=for-the-badge&logo=jinja&logoColor=black" alt="Jinja" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
 
 ### 🤖 AI / ML / Computer Vision
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI ML CV" />
 <br/><br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=green" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+<img src="https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=green" alt="CUDA" />
 
 ### 🏰 Databases / Cloud / Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,firebase,supabase,postgresql,aws,azure,vercel,heroku,docker,git,github,postman,bun" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis,firebase,supabase,docker,git,github,postman,vercel,aws,azure" alt="Databases Cloud Tools" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="Amazon S3" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:7b2ff7,100:ff0055&height=5&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:111111,50:7b2ff7,100:00f5ff&height=90&section=header&text=BATTLE%20STATS&fontSize=30&fontColor=ffffff&animation=blinking" width="100%" alt="Animated stats divider" />
+
+<div align="center">
+
+## 📊 GitHub Battle Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KartikeyaM2007&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00CC&text_color=FFFFFF" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyaM2007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top languages" />
+
+<br/>
+
+<img width="900" src="https://streak-stats.demolab.com?user=KartikeyaM2007&theme=radical&hide_border=true&card_width=900&background=0D1117" alt="GitHub streak" />
+
+<br/><br/>
+
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=KartikeyaM2007&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Battlefield" alt="Contribution graph" />
+
+<br/>
+
+<img width="900" src="https://github-profile-trophy.vercel.app/?username=KartikeyaM2007&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies" />
+
+</div>
+
+---
 
 ## 🕹️ Class Selection Screen
 
@@ -182,31 +208,7 @@ mindmap
       Vercel
       AWS
       Azure
-      Render
 ```
-
----
-
-<div align="center">
-
-## 📊 GitHub Battle Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KartikeyaM2007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyaM2007&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="900" src="https://streak-stats.demolab.com?user=KartikeyaM2007&theme=tokyonight&hide_border=true&card_width=900" />
-
-<br/><br/>
-
-<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=KartikeyaM2007&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Battlefield" />
-
-<br/>
-
-<img width="900" src="https://github-profile-trophy.vercel.app/?username=KartikeyaM2007&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
-
-</div>
 
 ---
 
@@ -237,9 +239,9 @@ pie title Current Power Allocation
 | Defeat flaky dependencies | ♾️ Eternal Quest |
 | Touch grass | ❌ Optional DLC |
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:111111,50:7b2ff7,100:00f5ff&height=90&section=header&text=DEBUG%20DUNGEON&fontSize=28&fontColor=ffffff&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff0055,50:7b2ff7,100:00f5ff&height=90&section=header&text=DEBUG%20BOSS%20FIGHT&fontSize=30&fontColor=ffffff&animation=blinking" width="100%" alt="Animated boss fight divider" />
 
-## 🎮 Interactive Mini Game: Debug Dungeon
+## 🎮 Interactive Mini Game: Debug Boss Fight
 
 <details>
 <summary>🟢 <b>Level 1: API returns 500. Choose your move.</b></summary>
@@ -308,26 +310,8 @@ Reward: `+30 DevOps XP`, `+1 thousand-yard stare`
 | 🧠 Tensor Tamer | Worked with ML models without crying publicly |
 | 🏗️ Full Stack Builder | Built apps from database to deployment |
 | 🚀 Ship Happens | Deployed projects despite the universe resisting |
-| 🕵️ Log Detective | Found bugs through pure terminal archaeology |
+| 🕵️ Log Detective | Found bugs through terminal archaeology |
 | 🔥 Overengineering Enjoyer | Made the architecture 3x cooler than required |
-
----
-
-## 🎯 Current Campaign
-
-```mermaid
-timeline
-    title Current Learning Campaign
-    section Chapter 1
-      Advanced RAG : chunking, reranking, citations
-      Agentic AI : tool use, memory, workflows
-    section Chapter 2
-      Federated Learning : distributed intelligence
-      Adversarial ML : model robustness
-    section Chapter 3
-      Production AI : monitoring, scaling, deployment
-      MLOps : pipelines, tracking, evaluation
-```
 
 ---
 
@@ -342,7 +326,7 @@ timeline
 ![Overengineering](https://img.shields.io/badge/Overengineering-a%20lifestyle-8a2be2?style=for-the-badge)
 ![Sleep](https://img.shields.io/badge/Sleep-optional%20feature-111111?style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:7b2ff7,100:ff0055&height=140&section=footer&text=I%20loot%20logs%2C%20fight%20bugs%2C%20and%20ship%20the%20product.&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:7b2ff7,100:ff0055&height=150&section=footer&text=I%20loot%20logs%2C%20fight%20bugs%2C%20and%20ship%20the%20product.&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="Animated footer" />
 
 ![Made With Markdown](https://img.shields.io/badge/Made%20with-Markdown-000000?style=for-the-badge&logo=markdown)
 ![Powered By Chaos](https://img.shields.io/badge/Powered%20by-Chaos%20Engineering-ff0055?style=for-the-badge)
