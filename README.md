@@ -34,16 +34,16 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/KartikeyaM2007/KartikeyaM2007/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/KartikeyaM2007/KartikeyaM2007/output/github-contribution-grid-snake-dark.svg?v=4"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/KartikeyaM2007/KartikeyaM2007/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/KartikeyaM2007/KartikeyaM2007/output/github-contribution-grid-snake.svg?v=4"
   />
   <img
     width="900"
     alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/KartikeyaM2007/KartikeyaM2007/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/KartikeyaM2007/KartikeyaM2007/output/github-contribution-grid-snake.svg?v=4"
   />
 </picture>
 
@@ -157,14 +157,25 @@ And yet... **we ship.** 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:111111,50:7b2ff7,100:00f5ff&height=90&section=header&text=BATTLE%20STATS&fontSize=30&fontColor=ffffff&animation=blinking" width="100%" alt="Animated stats divider" />
 
+
+
 <div align="center">
 
 ## 📊 GitHub Battle Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KartikeyaM2007&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00CC&text_color=FFFFFF" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyaM2007&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top languages" />
+<img width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KartikeyaM2007&theme=radical" alt="GitHub profile summary" />
 
-<br/>
+<br/><br/>
+
+<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KartikeyaM2007&theme=radical" alt="Top languages by repo" />
+<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KartikeyaM2007&theme=radical" alt="Top languages by commit" />
+
+<br/><br/>
+
+<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KartikeyaM2007&theme=radical" alt="GitHub stats" />
+<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KartikeyaM2007&theme=radical&utcOffset=5" alt="Productive time" />
+
+<br/><br/>
 
 <img width="900" src="https://streak-stats.demolab.com?user=KartikeyaM2007&theme=radical&hide_border=true&card_width=900&background=0D1117" alt="GitHub streak" />
 
@@ -172,12 +183,7 @@ And yet... **we ship.** 🚀
 
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=KartikeyaM2007&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Battlefield" alt="Contribution graph" />
 
-<br/>
-
-<img width="900" src="https://github-profile-trophy.vercel.app/?username=KartikeyaM2007&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub trophies" />
-
 </div>
-
 ---
 
 ## 🕹️ Class Selection Screen
