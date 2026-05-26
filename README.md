@@ -2,6 +2,13 @@
 AI/ML Developer | Full Stack Developer | RAG & Agentic AI Builder | Computer Vision Enthusiast<br><br>🔭 I’m currently working on<br>AI/ML and full-stack projects like GetFlowDone AI Agent Builder, RAG-based recommendation systems, and Anomaly Detection Vision Transformer.<br><br>👯 I’m looking to collaborate on<br>RAG pipelines, agentic AI tools, computer vision apps, federated learning systems, and full-stack SaaS products.<br><br>🤝 I’m looking for help with<br>Scaling production ML systems, improving model robustness, and optimizing deployment workflows.<br><br>🌱 I’m currently learning<br>Advanced RAG, agentic AI workflows, adversarial ML, federated learning, and production-level AI system design.<br><br>💬 Ask me about<br>Python, Next.js, FastAPI, Django, PyTorch, TensorFlow.js, RAG, Computer Vision, REST APIs, Node.js, and Full Stack Development.<br><br>⚡ Fun fact<br>I like turning complex AI ideas into real usable apps — from video anomaly detection to AI agent workflow builders.
 
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikeya-mishra-a92227191) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikeyamishra2134@gmail.com) 
 
@@ -11,6 +18,7 @@ AI/ML Developer | Full Stack Developer | RAG & Agentic AI Builder | Computer Vis
 ![](https://github-readme-stats.shion.dev/api?username=KartikeyaM2007&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=KartikeyaM2007&theme=graywhite&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KartikeyaM2007&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
