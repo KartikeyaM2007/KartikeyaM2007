@@ -27,14 +27,29 @@
 </div>
 
 ---
-
 <div align="center">
 
 ## 🐍 Snake Game Repo View
 
-<img width="900" src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KartikeyaM2007/KartikeyaM2007/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KartikeyaM2007/KartikeyaM2007/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="900"
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/KartikeyaM2007/KartikeyaM2007/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,50:7b2ff7,100:ff0055&height=90&section=header&text=PLAYER%20PROFILE&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" alt="Animated section divider" />
 
