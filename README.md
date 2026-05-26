@@ -1,13 +1,3 @@
-<!--
-  FLASHY / ANIMATED / GITHUB-SAFE README
-  Profile repository: KartikeyaM2007/KartikeyaM2007
-
-  GitHub README reality check:
-  - Custom CSS animations and JavaScript are blocked by GitHub.
-  - The animations below use external animated SVG/GIF cards, which GitHub allows.
-  - Snake section uses a safe static SVG so it does not break. For a personal contribution snake,
-    add the workflow included separately as github_workflows_snake.yml.
--->
 
 <div align="center">
 
@@ -27,6 +17,7 @@
 </div>
 
 ---
+
 <div align="center">
 
 ## 🐍 Snake Game Repo View
@@ -34,22 +25,20 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/KartikeyaM2007/KartikeyaM2007/output/github-contribution-grid-snake-dark.svg?v=4"
+    srcset="https://raw.githubusercontent.com/KartikeyaM2007/KartikeyaM2007/output/github-contribution-grid-snake-dark.svg?v=5"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/KartikeyaM2007/KartikeyaM2007/output/github-contribution-grid-snake.svg?v=4"
+    srcset="https://raw.githubusercontent.com/KartikeyaM2007/KartikeyaM2007/output/github-contribution-grid-snake.svg?v=5"
   />
   <img
     width="900"
     alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/KartikeyaM2007/KartikeyaM2007/output/github-contribution-grid-snake.svg?v=4"
+    src="https://raw.githubusercontent.com/KartikeyaM2007/KartikeyaM2007/output/github-contribution-grid-snake.svg?v=5"
   />
 </picture>
 
 </div>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,50:7b2ff7,100:ff0055&height=90&section=header&text=PLAYER%20PROFILE&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" alt="Animated section divider" />
 
@@ -157,23 +146,21 @@ And yet... **we ship.** 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:111111,50:7b2ff7,100:00f5ff&height=90&section=header&text=BATTLE%20STATS&fontSize=30&fontColor=ffffff&animation=blinking" width="100%" alt="Animated stats divider" />
 
-
-
 <div align="center">
 
 ## 📊 GitHub Battle Stats
 
-<img width="900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KartikeyaM2007&theme=radical" alt="GitHub profile summary" />
+<img width="900" src="profile-summary-card-output/radical/0-profile-details.svg" alt="GitHub profile summary" />
 
 <br/><br/>
 
-<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KartikeyaM2007&theme=radical" alt="Top languages by repo" />
-<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KartikeyaM2007&theme=radical" alt="Top languages by commit" />
+<img width="420" src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="Top languages by repo" />
+<img width="420" src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="Top languages by commit" />
 
 <br/><br/>
 
-<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KartikeyaM2007&theme=radical" alt="GitHub stats" />
-<img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KartikeyaM2007&theme=radical&utcOffset=5" alt="Productive time" />
+<img width="420" src="profile-summary-card-output/radical/3-stats.svg" alt="GitHub stats" />
+<img width="420" src="profile-summary-card-output/radical/4-productive-time.svg" alt="Productive time" />
 
 <br/><br/>
 
@@ -184,6 +171,7 @@ And yet... **we ship.** 🚀
 <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=KartikeyaM2007&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Battlefield" alt="Contribution graph" />
 
 </div>
+
 ---
 
 ## 🕹️ Class Selection Screen
